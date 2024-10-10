@@ -1,3 +1,3 @@
 fn main (){
-    println!(" Helo this is chris");
+    println!("{}",3.5);
 }
