@@ -25,7 +25,7 @@ fn main(){
     //c = String::from("Hello i'm cris");
     println!("before push_str {}",c);
     
-    let mut d=String::from("XXX ");
+    let mut d=String::from("XXX co");
     d = String::from("Hello i'm cris");
     println!("before push_str {}",d);
 
