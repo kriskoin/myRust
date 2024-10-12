@@ -19,8 +19,10 @@ fn main(){
     let an_64_float:f64=31.5;
     let another_64_float:f64=11.5;
 
-    //println!("an_32_integer: {} > an_64_integer : {}  {}",an_32_integer,an_64_integer , an_32_integer > an_64_integer); //error
-    //println!("an_32_integer: {} > an_32_float : {}  {}",an_32_integer,an_32_float , an_32_integer > an_32_float); //error
+     /*
+    println!("an_32_integer: {} > an_64_integer : {}  {}",an_32_integer,an_64_integer , an_32_integer > an_64_integer); //error
+    println!("an_32_integer: {} > an_32_float : {}  {}",an_32_integer,an_32_float , an_32_integer > an_32_float); //error
+    */
 
     println!("an_64_float: {} > another_64_float : {}  {}",an_64_float,another_64_float , an_64_float > another_64_float); //error
 
